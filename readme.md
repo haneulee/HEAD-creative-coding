@@ -6,7 +6,7 @@ Creative coding is a type of computer programming in which the goal is to create
 
 ## Info
 
-Workshop by [Gordan Savičić](https://yugo.at/processing/) + [Félicien Goguey](https://felicien.io/en/)
+Workshop by [Gordan Savičić](https://yugo.at/processing/) + [Félicien Goguey](https://felicien.io/en/)  
 Gitlab repository: https://gitlab.com/ritzdank/workshophead2024
 
 ## Léman Pulse
